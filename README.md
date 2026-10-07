@@ -1,55 +1,26 @@
-<h1 align="left">
-  👋 Hello, I'm Mustafo</h1>
+# Hi, I'm Mo0so 👋
 
-###
+**Middle Full-Stack JavaScript Developer**
 
-<h4 align="left">I'm a Full-Stack Developer focused on building fast, user-friendly web applications using modern technologies.<br><br>💻 Tech Stack:<br>- React.js, Next.js (13–16) – building scalable apps with typed routing, server actions, and app directory<br>- TypeScript, JavaScript – writing clean, maintainable, and type-safe code<br>- Redux, Zustand– state management for complex UI<br>- Firebase, MongoDB – backend services and data storage<br>- Hygraph (GraphCMS), GraphQL (graphql-request)– content management and API integration<br>- Tailwind CSS, CSS – building modern, responsive designs<br><br>🌍 I’ve worked on multilingual websites, blog platforms, eCommerce systems, and custom landing pages with a clean UX/UI approach.<br><br>🚀 I love learning new tools, experimenting with new ideas, and improving my craft every day.<br><br>📬 Feel free to reach out if you have a project in mind or just want to connect!</h4>
+I specialize in building scalable, production-ready web applications within the React and Next.js ecosystem. With over 2 years of commercial experience and 4 years of overall programming background, I deliver end-to-end solutions—from robust API architectures to polished, responsive user interfaces. 
 
-###
+Rather than just writing code, I focus on solving real problems by developing functional SaaS platforms, e-commerce systems, and dynamic dashboards integrated with secure authentication and payment gateways.
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-</div>
+## 🛠️ Tech Stack
 
-###
+- **Frontend:** React.js, Next.js, TypeScript, JavaScript, Tailwind CSS
+- **Backend:** Node.js, Express.js, RESTful APIs, Next.js Server Actions
+- **Database & Services:** MongoDB, Stripe, Clerk
+- **Tools:** Git, GitHub, VS Code
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/mustafo-alisherovich-0634332a4/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://instagram.com/mustafo__alisherovich" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="@mustafo_alisherovich" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-  </a>
-  <a href="https://www.facebook.com/mustafo.joraboyev.3/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  </a>
-</div>
+## 🚀 Domain Expertise
 
-###
+- Full-Stack SaaS & Web Applications
+- E-commerce Platforms with Payment Processing
+- Admin Dashboards & Internal Tooling
+- Telegram Mini Apps (TMAs)
+- Multilingual & Localized Architectures
+
+## 📌 Featured Projects
+
+Check out my pinned repositories below. I prioritize building fully functional, production-oriented projects—emphasizing secure architecture, optimized databases, scalable APIs, and real-world features over simple UI clones.
