@@ -1,4 +1,4 @@
-# Hi, I'm Mo0so 👋
+# Hi, I'm Mo0so 
 
 **Middle Full-Stack JavaScript Developer**
 
@@ -6,14 +6,14 @@ I specialize in building scalable, production-ready web applications within the 
 
 Rather than just writing code, I focus on solving real problems by developing functional SaaS platforms, e-commerce systems, and dynamic dashboards integrated with secure authentication and payment gateways.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Frontend:** React.js, Next.js, TypeScript, JavaScript, Tailwind CSS
 - **Backend:** Node.js, Express.js, RESTful APIs, Next.js Server Actions
 - **Database & Services:** MongoDB, Stripe, Clerk
 - **Tools:** Git, GitHub, VS Code
 
-## 🚀 Domain Expertise
+## Domain Expertise
 
 - Full-Stack SaaS & Web Applications
 - E-commerce Platforms with Payment Processing
@@ -21,6 +21,6 @@ Rather than just writing code, I focus on solving real problems by developing fu
 - Telegram Mini Apps (TMAs)
 - Multilingual & Localized Architectures
 
-## 📌 Featured Projects
+## Featured Projects
 
 Check out my pinned repositories below. I prioritize building fully functional, production-oriented projects—emphasizing secure architecture, optimized databases, scalable APIs, and real-world features over simple UI clones.
